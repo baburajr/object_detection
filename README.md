@@ -19,5 +19,5 @@ To run this project,
 $ git clone https://github.com/baburajr/object_detection.git
 $ cd object_detection
 $ pip install -r requirements.txt
-$ python3 object_detection
+$ python3 object_detection.py
 ```
